@@ -5,7 +5,7 @@ export const portfolio = {
   about:
     "I am a 3rd-year Computer Science student who enjoys building impactful products and exploring emerging technologies. My key interests include AI and Machine Learning, Software Engineering, and Web Development, and I am always eager to learn and improve my skills.",
 
-  resume: "/resume.pdf",
+  resume: "/Resume.pdf",
 
   links: {
     linkedin: "https://www.linkedin.com/in/g-r-m-nehan-177330286",
