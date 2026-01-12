@@ -3,14 +3,14 @@ export const portfolio = {
   role: "3rd Year Computer Science Student",
   college: "Amrita Vishwa Vidyapeetham, Coimbatore",
   about:
-    "I am a 3rd Year Computer Science student at Amrita Vishwa Vidyapeetham. I bridge the gap between Machine Learning and Physical Robotics Simulation.",
+    "I am a 3rd-year Computer Science student who enjoys building impactful products and exploring emerging technologies. My key interests include AI and Machine Learning, Software Engineering, and Web Development, and I am always eager to learn and improve my skills.",
 
   resume: "/resume.pdf",
 
   links: {
     linkedin: "https://www.linkedin.com/in/g-r-m-nehan-177330286",
     github: "https://github.com/NEHANGRM",
-    leetcode: "https://leetcode.com/u/NEHANGRM/",
+    leetcode: "https://leetcode.com/u/Nehan_G_R_M/",
     email: "mailto:nehangrm123@gmail.com",
   },
 
